@@ -1,0 +1,24 @@
+1.empty list
+2.spam =[2,4,6,8]
+  spam[3]="hello"
+  print(spam)
+3.['a','b','c','d']
+4.d
+5.['a','b']
+6.1
+7.[3.14, 'cat', '11', 'cat', True, 99]
+8.[3.14, '11', 'cat', True]
+9.list concatenation operator is  "+" , list replication operatpr is '*'.
+10.Difference between insert() and append() are,insert method inserts a value at a 
+particular location whereas append method appends the value at the end of the list.
+11.remove and pop are two methods.
+12.list are mutable and can have different types of elements, As strings are immutable a
+and contains only string values or sequence of characters.
+13.Difference beteween tuple and list are tuples are immutable whereas list is mutable.
+therfore,we can change list but not tuple.
+14.(42,)
+15.using tuple() function and using list() function.
+16.they contain values of the list.
+17.copy.cpoy() function will do a copy of a list whereas, copy.deepcopy() will duplicate lists inside the lists.
+
+  
